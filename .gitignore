@@ -1,0 +1,8 @@
+# swap files
+*.swp
+*.swo
+*.swm
+*.swn
+
+# sensitive files
+.env.prod.db
