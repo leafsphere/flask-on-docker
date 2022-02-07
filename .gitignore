@@ -5,4 +5,4 @@
 *.swn
 
 # sensitive files
-.env.prod.db
+env.prod.db
